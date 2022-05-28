@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to zaozao's community!
-    text: It's Nice To Meet You
+    title: It's Nice To Meet You
+    text: Welcome to zaozao's community!
     button: Tell Me More
     buttonlink: "#services"
 
