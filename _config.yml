@@ -17,8 +17,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Micro Penetration
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "A website for sharing security techniques"
+email      : creatrworldwe@proton.me #this is also the email contact forms will go to
+description: "Make the world fairer"
 author     : Wing
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
