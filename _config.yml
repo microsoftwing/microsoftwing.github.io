@@ -16,7 +16,7 @@ theme: jekyll-theme-merlot
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Micro Penetration
+title      : Wing Team
 email      : creatrworldwe@proton.me #this is also the email contact forms will go to
 description: "Make the world fairer"
 author     : Wing
