@@ -31,11 +31,11 @@ en: &DEFAULT_EN
         desc: "Attack chain、RCE Surfaces、Privilege Escalation in the Android"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
-    text: "Do it."
-    section: portfolio
-    closebutton: "Close Project"
+  #portfolio:
+   # title: "Portfolio"
+   # text: "Do it."
+   # section: portfolio
+   # closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
