@@ -17,9 +17,9 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Ability"
+    text: "Get better"
+    section: Security
     list:
       - title: "Appsec"
         desc: "Application security includes WEB security vulnerabilities, WAF bypasses, and logic flaws."
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Wing Team timeline"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Committed to making the online world a better place."
     section: about
 
   clients:
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     subtext: Want to wear a crown, Must bear its weight.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "kan jack"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
         social:
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Mike"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Send mail to creatrworldwe@proton.me"
+    text: "Send mail to coffertuiop@protonmail.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -290,7 +290,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Wing Team"
-    text: "Send Mail To creatrworldwe@proton.me"
+    text: "Send Mail To coffertuiop@protonmail.com"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
